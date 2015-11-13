@@ -1,5 +1,5 @@
 ---
-layout: what-we-do
+layout: default
 title: What We Do
 meta_title: Meta title
 meta_description: Meta description
