@@ -8,8 +8,8 @@ seo:
     meta_description: Meta description
 
 video:
-    poster: /assets/images/home-video-poster.jpg
-    src: /assets/videos/home-video.mp4
+    poster: /assets-content/images/home-video-poster.jpg
+    src: /assets-content/videos/home-video.mp4
 ---
 
 Digital Change Agents
