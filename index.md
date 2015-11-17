@@ -12,6 +12,7 @@ published: true
 ---
 
 
+
 # Digital **Change** Agents
 
 - Logo one
@@ -19,4 +20,5 @@ published: true
 - Logo three
 - Logo four
 
-![]({{site.baseurl}}/cow-fail.jpg)
+![cow-fail.jpg]({{site.baseurl}}/assets-content/images/cow-fail.jpg)
+
