@@ -2,14 +2,15 @@
 layout: home
 theme: home
 title: Website Name
-seo:
+seo: 
   meta_title: Meta title
   meta_description: Meta description
-video:
+video: 
   poster: "/assets-content/images/home-video-poster.jpg"
   src: "/assets-content/videos/home-video.mp4"
 published: true
 ---
+
 
 # Digital **Change** Agents
 
@@ -17,3 +18,5 @@ published: true
 - Logo two
 - Logo three
 - Logo four
+
+![]({{site.baseurl}}/cow-fail.jpg)
