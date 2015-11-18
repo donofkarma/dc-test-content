@@ -1,14 +1,13 @@
 ---
+published: true
 layout: article
 theme: news-and-views article
-
 title: Amazon gets physical
 category: tbc
 author: Payment Eye
-featured_image: /assets-content/images/news-and-views/amazon-gets-physical.jpg
+featured_image: /assets-content/images/amazon-gets-physical.jpg
 introduction: Peter Veash, CEO of the BIO Agency, gives his thoughts on the unveiling of Amazon's first physical bookstore to Payment Eye.
 standfirst: "Amazon goes offline with new physical bookstore, but why? – News Article | The BIO Agency"
-
 seo_title: Meta title
 seo_description: Meta description
 ---

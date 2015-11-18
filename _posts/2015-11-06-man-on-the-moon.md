@@ -1,14 +1,13 @@
 ---
+published: true
 layout: article
 theme: news-and-views article
-
 title: Man on The Moon
 category: tbc
 author: The Guardian
-featured_image: /assets-content/images/news-and-views/man-on-the-moon.jpg
+featured_image: /assets-content/images/man-on-the-moon.jpg
 introduction: The Guardian talks to the BIO Agency’s Business Development Director, Rebecca Crook about the new John Lewis Christmas ad.
 standfirst: "Man on the Moon: the industry view of the John Lewis Christmas ad - News Article | The BIO Agency"
-
 seo_title: Meta title
 seo_description: Meta description
 ---
