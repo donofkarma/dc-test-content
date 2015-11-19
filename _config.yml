@@ -1,2 +1,3 @@
 prose:
     media: 'assets-content/images'
+    rootUrl: 'content'
